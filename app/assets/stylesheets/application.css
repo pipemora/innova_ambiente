@@ -8,8 +8,20 @@
  * You're free to add application-wide styles to this file and they'll appear at the top of the
  * compiled file, but it's generally better to create a new file per style scope.
  *
- *= require_self
- *= require foundation_and_overrides
 
+ *= require custom
+ *= require bootstrap
+ *= require bootstrap-responsive
+ *= require jquery.bxslider
+ *= require cp_load
+ *= require prettyPhoto
+ *= require cp_load
+ *= require color
+ *= require color-1
+ *= require color-2
+ *= require color-3
+ *= require color-4
+ *= require color-5
+ *= require color-6
  *= require_tree .
  */

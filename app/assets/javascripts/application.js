@@ -10,10 +10,22 @@
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require html5
 //= require jquery
 //= require jquery_ujs
-//= require foundation
+//= require bootstrap
+//= require modernizr.custom.97074
+//= require jquery.hoverdir
+//= require jquery.bxslider
+//= require jquery.plugin
+//= require jquery.countdown
+//= require jquery.flexisel
+//= require jquery.stellar.min
+//= require jquery.prettyPhoto
+//= require styleswitch
+//= require jquery.tabSlideOut.v1.3
+//= require custom
 //= require turbolinks
 //= require_tree .
 
-$(function(){ $(document).foundation(); });
+
