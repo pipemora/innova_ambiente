@@ -154,6 +154,7 @@ body {
 .navigation-box .navbar {
 	margin:0;
 	float:left;
+	background: #000;
 }
 /*Generic Headings Star*/
 .generic-heading {
